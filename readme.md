@@ -30,6 +30,10 @@ No strong correlation between total screen time and mental health scores (r ≈ 
 
 No meaningful difference between top & bottom 25% groups in device usage.
 
+![image](https://github.com/user-attachments/assets/448b8ad0-88c6-4720-a131-bb7afcc105fd)
+
+
+
 Slight generational difference: Gen Z reports lower mental health than other groups, but the dataset is too small to generalize.
 
 Virtually no correlation between screen time and sleep quality.
